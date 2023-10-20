@@ -1,3 +1,6 @@
+# Confirm if AWS CodeDeploy deployments have automatic rollback monitoring enabled.
+
+
 import boto3
 
 # Initialize a Boto3 client for CodeDeploy

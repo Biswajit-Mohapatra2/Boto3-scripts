@@ -1,3 +1,6 @@
+# Check if AWS CodeDeploy deployments have a minimum number of healthy hosts configured for Amazon EC2 instances.
+
+
 import boto3
 
 # Initialize a Boto3 client for CodeDeploy

@@ -1,3 +1,6 @@
+# Confirm if AWS Key Management Service (KMS) customer master keys (CMKs) have backing key rotation enabled.
+
+
 import boto3
 
 # Initialize a Boto3 client for KMS

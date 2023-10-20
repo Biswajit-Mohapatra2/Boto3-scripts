@@ -1,3 +1,6 @@
+# Confirm if AWS Redshift clusters have audit logging enabled.
+
+
 import boto3
 
 # Initialize a Boto3 client for Redshift

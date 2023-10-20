@@ -1,3 +1,6 @@
+# Confirm if AWS CodePipeline uses a region fanout action for cross-region deployments.
+
+
 import boto3
 
 # Initialize a Boto3 client for CodePipeline

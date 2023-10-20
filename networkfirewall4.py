@@ -1,3 +1,6 @@
+# Retrieve non-empty stateless rule groups for Network Firewall.
+
+
 import boto3
 
 # Initialize a Boto3 client for Network Firewall

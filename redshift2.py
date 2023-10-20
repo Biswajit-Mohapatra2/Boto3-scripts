@@ -1,3 +1,6 @@
+#  Check if AWS Redshift clusters are using the default admin account.
+
+
 import boto3
 
 # Initialize a Boto3 client for Redshift

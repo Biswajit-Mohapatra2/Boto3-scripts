@@ -1,3 +1,6 @@
+# Check for AWS S3 bucket policies that grant permissions to specific grantee types.
+
+
 import boto3
 import json
 

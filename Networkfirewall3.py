@@ -1,3 +1,6 @@
+# List Network Firewall policies associated with rule groups.
+
+
 import boto3
 
 # Initialize a Boto3 client for Network Firewall

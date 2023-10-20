@@ -1,3 +1,6 @@
+# Verify if AWS CloudFormation stacks have notification configurations set.
+
+
 import boto3
 
 # Initialize a Boto3 client for CloudFormation

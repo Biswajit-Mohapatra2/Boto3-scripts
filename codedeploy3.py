@@ -1,3 +1,6 @@
+# Confirm if AWS CodeDeploy Lambda deployments have disabled "All at Once" traffic shifting.
+
+
 import boto3
 
 # Initialize a Boto3 client for CodeDeploy

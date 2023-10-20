@@ -1,3 +1,6 @@
+# Retrieve Network Firewall policies with specific default actions for stateless full packets.
+
+
 import boto3
 
 # Initialize a Boto3 client for Network Firewall

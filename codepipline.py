@@ -1,3 +1,6 @@
+# Verify if AWS CodePipeline deployments meet the specified deployment count criteria.
+
+
 import boto3
 
 # Initialize a Boto3 client for CodePipeline

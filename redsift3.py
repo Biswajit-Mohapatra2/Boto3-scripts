@@ -1,3 +1,6 @@
+# Verify if AWS Redshift clusters are using the default database name.
+
+
 import boto3
 
 # Initialize a Boto3 client for Redshift

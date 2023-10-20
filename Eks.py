@@ -1,3 +1,6 @@
+# Verify if secrets stored in Amazon EKS (Elastic Kubernetes Service) are encrypted.
+
+
 import boto3
 
 # Initialize a Boto3 client for KMS

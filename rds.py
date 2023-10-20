@@ -1,3 +1,6 @@
+# Check if AWS RDS (Relational Database Service) instances have default admin account usage.
+
+
 import boto3
 
 # Initialize a Boto3 client for RDS
